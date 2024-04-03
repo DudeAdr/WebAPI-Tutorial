@@ -1,0 +1,16 @@
+C:\Users\adria\.NETProjects\WebAPI\CarWorkshop.Application\bin\Debug\net8.0\CarWorkshop.Application.deps.json
+C:\Users\adria\.NETProjects\WebAPI\CarWorkshop.Application\bin\Debug\net8.0\CarWorkshop.Application.dll
+C:\Users\adria\.NETProjects\WebAPI\CarWorkshop.Application\bin\Debug\net8.0\CarWorkshop.Application.pdb
+C:\Users\adria\.NETProjects\WebAPI\CarWorkshop.Application\bin\Debug\net8.0\CarWorkshop.Domain.dll
+C:\Users\adria\.NETProjects\WebAPI\CarWorkshop.Application\bin\Debug\net8.0\CarWorkshop.Domain.pdb
+C:\Users\adria\.NETProjects\WebAPI\CarWorkshop.Application\obj\Debug\net8.0\CarWorkshop.Application.csproj.AssemblyReference.cache
+C:\Users\adria\.NETProjects\WebAPI\CarWorkshop.Application\obj\Debug\net8.0\CarWorkshop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\.NETProjects\WebAPI\CarWorkshop.Application\obj\Debug\net8.0\CarWorkshop.Application.AssemblyInfoInputs.cache
+C:\Users\adria\.NETProjects\WebAPI\CarWorkshop.Application\obj\Debug\net8.0\CarWorkshop.Application.AssemblyInfo.cs
+C:\Users\adria\.NETProjects\WebAPI\CarWorkshop.Application\obj\Debug\net8.0\CarWorkshop.Application.csproj.CoreCompileInputs.cache
+C:\Users\adria\.NETProjects\WebAPI\CarWorkshop.Application\obj\Debug\net8.0\CarWorkshop.Application.sourcelink.json
+C:\Users\adria\.NETProjects\WebAPI\CarWorkshop.Application\obj\Debug\net8.0\CarWorks.05936055.Up2Date
+C:\Users\adria\.NETProjects\WebAPI\CarWorkshop.Application\obj\Debug\net8.0\CarWorkshop.Application.dll
+C:\Users\adria\.NETProjects\WebAPI\CarWorkshop.Application\obj\Debug\net8.0\refint\CarWorkshop.Application.dll
+C:\Users\adria\.NETProjects\WebAPI\CarWorkshop.Application\obj\Debug\net8.0\CarWorkshop.Application.pdb
+C:\Users\adria\.NETProjects\WebAPI\CarWorkshop.Application\obj\Debug\net8.0\ref\CarWorkshop.Application.dll
