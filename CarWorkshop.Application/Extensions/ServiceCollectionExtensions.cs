@@ -13,7 +13,9 @@ namespace CarWorkshop.Application.Extensions
         public static void AddApplication(this IServiceCollection services)
         {
             services.AddScoped<ICarWorkshopService, CarWorkshopService>();
+
             services.AddAutoMapper(typeof(CarWorkshopMappingProfile));
+
             services.AddValidatorsFromAssemblyContaining<CarWorkshopDtoValidator>()
                 .AddFluentValidationAutoValidation()
                 .AddFluentValidationClientsideAdapters();
