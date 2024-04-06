@@ -2,7 +2,6 @@
 using CarWorkshop.Application.CarWorkshop;
 using CarWorkshop.Domain.Interfaces;
 
-
 namespace CarWorkshop.Application.Services
 {
     internal class CarWorkshopService : ICarWorkshopService
@@ -21,6 +20,14 @@ namespace CarWorkshop.Application.Services
 
             carWorkshop.EncodeName();
             await _carWorkshopRepository.Create(carWorkshop);
+        }
+
+        public async Task<IEnumerable<CarWorkshopDto>> GetAll()
+        {
+            var carWorkshops = await _carWorkshopRepository.GetAll();
+            var dtos = _mapper.Map<IEnumerable<CarWorkshopDto>>(carWorkshops);
+
+            return dtos;
         }
     }
 }
