@@ -15,7 +15,7 @@ namespace CarWorkshop.Infrastructure.Persistance
         }
         public DbSet<Domain.Entities.CarWorkshop> CarWorkshops { get; set; } //podana nazwa klasy ze "ścieżką" - jest to wlasciwosc prezentujaca tabele
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder) //przekazujemy ze ContactDetails nie jest osobna tabela tylko wlasciwoscia
+        protected override void OnModelCreating(ModelBuilder modelBuilder) //przekazujemy z ContactDetails nie jest osobna tabela tylko wlasciwoscia
         {
             modelBuilder.Entity<Domain.Entities.CarWorkshop>()
                 .OwnsOne(c => c.ContactDetails);
