@@ -20,7 +20,7 @@ namespace CarWorkshop.Application.CarWorkshop.Commands.EditCarWorkshop
 
         public async Task<Unit> Handle(EditCarWorkshopCommand request, CancellationToken cancellationToken)
         {
-            var carWorkshop = await _carWorkshopRepository.GetByEncodedName(request.EncodedName); // pobranie encji z bazy danych
+            var carWorkshop = await _carWorkshopRepository.GetByEncodedName(request.EncodedName!); // pobranie encji z bazy danych
 
             carWorkshop.Description = request.Description;
             carWorkshop.about = request.about;
