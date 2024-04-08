@@ -18,6 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Appli\" />
     <Folder Include="Services\" />
   </ItemGroup>
 

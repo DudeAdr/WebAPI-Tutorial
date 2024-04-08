@@ -3,6 +3,58 @@
   "WorkspaceRootPath": "C:\\Users\\adria\\.NETProjects\\WebAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.application\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|solutionrelative:carworkshop.application\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Migrations\\20240408195206_CreatedByIdAddedToWorkshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarWorkshop.Infrastructure\\Migrations\\20240408195206_CreatedByIdAddedToWorkshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05509E03-EA5E-4CF2-AE64-A9CCFC4B288E}|CarWorkshop.Domain\\CarWorkshop.Domain.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.domain\\entities\\carworkshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05509E03-EA5E-4CF2-AE64-A9CCFC4B288E}|CarWorkshop.Domain\\CarWorkshop.Domain.csproj|solutionrelative:carworkshop.domain\\entities\\carworkshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.application\\carworkshop\\commands\\createcarworkshop\\createcarworkshopcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|solutionrelative:carworkshop.application\\carworkshop\\commands\\createcarworkshop\\createcarworkshopcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.application\\applicationuser\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|solutionrelative:carworkshop.application\\applicationuser\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.application\\applicationuser\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|solutionrelative:carworkshop.application\\applicationuser\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.application\\carworkshop\\commands\\createcarworkshop\\createcarworkshopcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|solutionrelative:carworkshop.application\\carworkshop\\commands\\createcarworkshop\\createcarworkshopcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.application\\carworkshop\\commands\\createcarworkshop\\createcarworkshopcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|solutionrelative:carworkshop.application\\carworkshop\\commands\\createcarworkshop\\createcarworkshopcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05509E03-EA5E-4CF2-AE64-A9CCFC4B288E}|CarWorkshop.Domain\\CarWorkshop.Domain.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.domain\\entities\\carworkshopcontactdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05509E03-EA5E-4CF2-AE64-A9CCFC4B288E}|CarWorkshop.Domain\\CarWorkshop.Domain.csproj|solutionrelative:carworkshop.domain\\entities\\carworkshopcontactdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.application\\carworkshop\\carworkshopdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|solutionrelative:carworkshop.application\\carworkshop\\carworkshopdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.application\\carworkshop.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|solutionrelative:carworkshop.application\\carworkshop.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547EF4E6-5D15-4BA5-9534-2ABB9C79C4CB}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.mvc\\carworkshop.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{547EF4E6-5D15-4BA5-9534-2ABB9C79C4CB}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|solutionrelative:carworkshop.mvc\\carworkshop.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547EF4E6-5D15-4BA5-9534-2ABB9C79C4CB}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.mvc\\controllers\\carworkshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547EF4E6-5D15-4BA5-9534-2ABB9C79C4CB}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|solutionrelative:carworkshop.mvc\\controllers\\carworkshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{547EF4E6-5D15-4BA5-9534-2ABB9C79C4CB}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{547EF4E6-5D15-4BA5-9534-2ABB9C79C4CB}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|solutionrelative:carworkshop.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -25,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{547EF4E6-5D15-4BA5-9534-2ABB9C79C4CB}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.mvc\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{547EF4E6-5D15-4BA5-9534-2ABB9C79C4CB}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|solutionrelative:carworkshop.mvc\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{547EF4E6-5D15-4BA5-9534-2ABB9C79C4CB}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.mvc\\carworkshop.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{547EF4E6-5D15-4BA5-9534-2ABB9C79C4CB}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|solutionrelative:carworkshop.mvc\\carworkshop.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{547EF4E6-5D15-4BA5-9534-2ABB9C79C4CB}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -59,14 +107,6 @@
       "RelativeMoniker": "D:0:0:{569B6393-EA36-4FDF-92C4-5C3A0F2B958A}|CarWorkshop.Infrastructure\\CarWorkshop.Infrastructure.csproj|solutionrelative:carworkshop.infrastructure\\migrations\\carworkshopdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.application\\carworkshop\\carworkshopdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|solutionrelative:carworkshop.application\\carworkshop\\carworkshopdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.application\\carworkshop.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|solutionrelative:carworkshop.application\\carworkshop.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{547EF4E6-5D15-4BA5-9534-2ABB9C79C4CB}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.mvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{547EF4E6-5D15-4BA5-9534-2ABB9C79C4CB}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|solutionrelative:carworkshop.mvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -91,14 +131,6 @@
       "RelativeMoniker": "D:0:0:{547EF4E6-5D15-4BA5-9534-2ABB9C79C4CB}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|solutionrelative:carworkshop.mvc\\views\\carworkshop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{547EF4E6-5D15-4BA5-9534-2ABB9C79C4CB}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.mvc\\controllers\\carworkshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{547EF4E6-5D15-4BA5-9534-2ABB9C79C4CB}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|solutionrelative:carworkshop.mvc\\controllers\\carworkshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.application\\carworkshop\\commands\\createcarworkshop\\createcarworkshopcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|solutionrelative:carworkshop.application\\carworkshop\\commands\\createcarworkshop\\createcarworkshopcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{569B6393-EA36-4FDF-92C4-5C3A0F2B958A}|CarWorkshop.Infrastructure\\CarWorkshop.Infrastructure.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.infrastructure\\repositories\\carworkshoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{569B6393-EA36-4FDF-92C4-5C3A0F2B958A}|CarWorkshop.Infrastructure\\CarWorkshop.Infrastructure.csproj|solutionrelative:carworkshop.infrastructure\\repositories\\carworkshoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -109,14 +141,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.application\\mappings\\carworkshopmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|solutionrelative:carworkshop.application\\mappings\\carworkshopmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05509E03-EA5E-4CF2-AE64-A9CCFC4B288E}|CarWorkshop.Domain\\CarWorkshop.Domain.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.domain\\entities\\carworkshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05509E03-EA5E-4CF2-AE64-A9CCFC4B288E}|CarWorkshop.Domain\\CarWorkshop.Domain.csproj|solutionrelative:carworkshop.domain\\entities\\carworkshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05509E03-EA5E-4CF2-AE64-A9CCFC4B288E}|CarWorkshop.Domain\\CarWorkshop.Domain.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.domain\\entities\\carworkshopcontactdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05509E03-EA5E-4CF2-AE64-A9CCFC4B288E}|CarWorkshop.Domain\\CarWorkshop.Domain.csproj|solutionrelative:carworkshop.domain\\entities\\carworkshopcontactdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{547EF4E6-5D15-4BA5-9534-2ABB9C79C4CB}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.mvc\\views\\carworkshop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -133,18 +157,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.application\\carworkshop\\queries\\getcarworkshopbyencodedname\\getcarworkshopbyencodednamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|solutionrelative:carworkshop.application\\carworkshop\\queries\\getcarworkshopbyencodedname\\getcarworkshopbyencodednamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.application\\carworkshop\\commands\\createcarworkshop\\createcarworkshopcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|solutionrelative:carworkshop.application\\carworkshop\\commands\\createcarworkshop\\createcarworkshopcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.application\\carworkshop\\commands\\createcarworkshop\\createcarworkshopcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|solutionrelative:carworkshop.application\\carworkshop\\commands\\createcarworkshop\\createcarworkshopcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.application\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|solutionrelative:carworkshop.application\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77750F28-5756-4100-9FA0-6F9A4977F9AE}|CarWorkshop.Application\\CarWorkshop.Application.csproj|c:\\users\\adria\\.netprojects\\webapi\\carworkshop.application\\carworkshop\\queries\\getallcarworkshops\\getallcarworkshopsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -198,280 +210,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_LoginPartial.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Shared\\_LoginPartial.cshtml.cs",
-              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\Shared\\_LoginPartial.cshtml.cs",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Shared\\_LoginPartial.cshtml.cs",
-              "RelativeToolTip": "CarWorkshop.MVC\\Views\\Shared\\_LoginPartial.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T10:10:58.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "CarWorkshop.MVC\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-07T09:53:35.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "CarWorkshop.MVC\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-07T09:53:30.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20240407094110_Identity.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Migrations\\20240407094110_Identity.cs",
-              "RelativeDocumentMoniker": "CarWorkshop.Infrastructure\\Migrations\\20240407094110_Identity.cs",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Migrations\\20240407094110_Identity.cs",
-              "RelativeToolTip": "CarWorkshop.Infrastructure\\Migrations\\20240407094110_Identity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T09:41:10.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CarWorkshopDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Migrations\\CarWorkshopDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "CarWorkshop.Infrastructure\\Migrations\\CarWorkshopDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Migrations\\CarWorkshopDbContextModelSnapshot.cs",
-              "RelativeToolTip": "CarWorkshop.Infrastructure\\Migrations\\CarWorkshopDbContextModelSnapshot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T09:39:00.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CarWorkshop.MVC.csproj",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\CarWorkshop.MVC.csproj",
-              "RelativeDocumentMoniker": "CarWorkshop.MVC\\CarWorkshop.MVC.csproj",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\CarWorkshop.MVC.csproj",
-              "RelativeToolTip": "CarWorkshop.MVC\\CarWorkshop.MVC.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-07T08:27:43.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Program.cs",
-              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Program.cs",
-              "RelativeToolTip": "CarWorkshop.MVC\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAB8AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-18T12:14:17.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "CarWorkshop.MVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-18T11:01:48.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "CarWorkshop.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-07T10:11:47.945Z",
+              "Title": "20240408195206_CreatedByIdAddedToWorkshop.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Migrations\\20240408195206_CreatedByIdAddedToWorkshop.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.Infrastructure\\Migrations\\20240408195206_CreatedByIdAddedToWorkshop.cs",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Migrations\\20240408195206_CreatedByIdAddedToWorkshop.cs",
+              "RelativeToolTip": "CarWorkshop.Infrastructure\\Migrations\\20240408195206_CreatedByIdAddedToWorkshop.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T19:52:06.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CarWorkshop.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop.Application.csproj",
-              "RelativeDocumentMoniker": "CarWorkshop.Application\\CarWorkshop.Application.csproj",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop.Application.csproj",
-              "RelativeToolTip": "CarWorkshop.Application\\CarWorkshop.Application.csproj",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-24T15:43:10.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "CarWorkshop.MVC\\Views\\_ViewStart.cshtml",
+              "DocumentIndex": 4,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\ApplicationUser\\UserContext.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.Application\\ApplicationUser\\UserContext.cs",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\ApplicationUser\\UserContext.cs",
+              "RelativeToolTip": "CarWorkshop.Application\\ApplicationUser\\UserContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-07T10:07:13.338Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T19:42:13.535Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "CarWorkshop.MVC\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-07T10:09:20.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CarWorkshop.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\CarWorkshop.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "CarWorkshop.Infrastructure\\CarWorkshop.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\CarWorkshop.Infrastructure.csproj",
-              "RelativeToolTip": "CarWorkshop.Infrastructure\\CarWorkshop.Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-24T15:45:58.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ServiceCollectionExtension.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Extensions\\ServiceCollectionExtension.cs",
-              "RelativeDocumentMoniker": "CarWorkshop.Infrastructure\\Extensions\\ServiceCollectionExtension.cs",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Extensions\\ServiceCollectionExtension.cs",
-              "RelativeToolTip": "CarWorkshop.Infrastructure\\Extensions\\ServiceCollectionExtension.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\ApplicationUser\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.Application\\ApplicationUser\\CurrentUser.cs",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\ApplicationUser\\CurrentUser.cs",
+              "RelativeToolTip": "CarWorkshop.Application\\ApplicationUser\\CurrentUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T15:57:21.109Z",
+              "WhenOpened": "2024-04-08T19:40:12.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CarWorkshopDto.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\CarWorkshopDto.cs",
-              "RelativeDocumentMoniker": "CarWorkshop.Application\\CarWorkshop\\CarWorkshopDto.cs",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\CarWorkshopDto.cs",
-              "RelativeToolTip": "CarWorkshop.Application\\CarWorkshop\\CarWorkshopDto.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAIwA0AAAAXAAAA",
+              "DocumentIndex": 2,
+              "Title": "CarWorkshop.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Domain\\Entities\\CarWorkshop.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.Domain\\Entities\\CarWorkshop.cs",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Domain\\Entities\\CarWorkshop.cs",
+              "RelativeToolTip": "CarWorkshop.Domain\\Entities\\CarWorkshop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T18:18:06.553Z",
+              "WhenOpened": "2024-02-18T12:14:57.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CarWorkshopDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Persistance\\CarWorkshopDbContext.cs",
-              "RelativeDocumentMoniker": "CarWorkshop.Infrastructure\\Persistance\\CarWorkshopDbContext.cs",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Persistance\\CarWorkshopDbContext.cs",
-              "RelativeToolTip": "CarWorkshop.Infrastructure\\Persistance\\CarWorkshopDbContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-19T10:05:39.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EditCarWorkshopCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommandHandler.cs",
-              "RelativeDocumentMoniker": "CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommandHandler.cs",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommandHandler.cs",
-              "RelativeToolTip": "CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommandHandler.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T20:03:35.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "CarWorkshop.MVC\\Views\\Home\\About.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-18T11:11:16.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "EditCarWorkshopCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommandValidator.cs",
-              "RelativeDocumentMoniker": "CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommandValidator.cs",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommandValidator.cs",
-              "RelativeToolTip": "CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommandValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T08:09:21.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\CarWorkshop\\Edit.cshtml",
-              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\CarWorkshop\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\CarWorkshop\\Edit.cshtml",
-              "RelativeToolTip": "CarWorkshop.MVC\\Views\\CarWorkshop\\Edit.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAIBZwDEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T20:19:18.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CarWorkshopRepository.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Repositories\\CarWorkshopRepository.cs",
-              "RelativeDocumentMoniker": "CarWorkshop.Infrastructure\\Repositories\\CarWorkshopRepository.cs",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Repositories\\CarWorkshopRepository.cs",
-              "RelativeToolTip": "CarWorkshop.Infrastructure\\Repositories\\CarWorkshopRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBAAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T15:46:33.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 8,
               "Title": "CarWorkshopContactDetails.cs",
               "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Domain\\Entities\\CarWorkshopContactDetails.cs",
               "RelativeDocumentMoniker": "CarWorkshop.Domain\\Entities\\CarWorkshopContactDetails.cs",
@@ -484,163 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CreateCarWorkshopCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Commands\\CreateCarWorkshop\\CreateCarWorkshopCommandValidator.cs",
-              "RelativeDocumentMoniker": "CarWorkshop.Application\\CarWorkshop\\Commands\\CreateCarWorkshop\\CreateCarWorkshopCommandValidator.cs",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Commands\\CreateCarWorkshop\\CreateCarWorkshopCommandValidator.cs",
-              "RelativeToolTip": "CarWorkshop.Application\\CarWorkshop\\Commands\\CreateCarWorkshop\\CreateCarWorkshopCommandValidator.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBZwBwAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T11:45:31.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CarWorkshopController.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Controllers\\CarWorkshopController.cs",
-              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Controllers\\CarWorkshopController.cs",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Controllers\\CarWorkshopController.cs",
-              "RelativeToolTip": "CarWorkshop.MVC\\Controllers\\CarWorkshopController.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAcwDsAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T15:38:41.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CarWorkshopMappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\Mappings\\CarWorkshopMappingProfile.cs",
-              "RelativeDocumentMoniker": "CarWorkshop.Application\\Mappings\\CarWorkshopMappingProfile.cs",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\Mappings\\CarWorkshopMappingProfile.cs",
-              "RelativeToolTip": "CarWorkshop.Application\\Mappings\\CarWorkshopMappingProfile.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAQwCIAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T18:21:40.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "CarWorkshop.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Domain\\Entities\\CarWorkshop.cs",
-              "RelativeDocumentMoniker": "CarWorkshop.Domain\\Entities\\CarWorkshop.cs",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Domain\\Entities\\CarWorkshop.cs",
-              "RelativeToolTip": "CarWorkshop.Domain\\Entities\\CarWorkshop.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-18T12:14:57.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\CarWorkshop\\Details.cshtml",
-              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\CarWorkshop\\Details.cshtml",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\CarWorkshop\\Details.cshtml",
-              "RelativeToolTip": "CarWorkshop.MVC\\Views\\CarWorkshop\\Details.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAIBZwC0AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T19:53:53.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\CarWorkshop\\Create.cshtml",
-              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\CarWorkshop\\Create.cshtml",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\CarWorkshop\\Create.cshtml",
-              "RelativeToolTip": "CarWorkshop.MVC\\Views\\CarWorkshop\\Create.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAIBZwAYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T19:15:34.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ICarWorkshopRepository.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Domain\\Interfaces\\ICarWorkshopRepository.cs",
-              "RelativeDocumentMoniker": "CarWorkshop.Domain\\Interfaces\\ICarWorkshopRepository.cs",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Domain\\Interfaces\\ICarWorkshopRepository.cs",
-              "RelativeToolTip": "CarWorkshop.Domain\\Interfaces\\ICarWorkshopRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T17:55:21.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\CarWorkshop\\Index.cshtml",
-              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\CarWorkshop\\Index.cshtml",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\CarWorkshop\\Index.cshtml",
-              "RelativeToolTip": "CarWorkshop.MVC\\Views\\CarWorkshop\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T10:33:46.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "GetCarWorkshopByEncodedNameQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Queries\\GetCarWorkshopByEncodedName\\GetCarWorkshopByEncodedNameQueryHandler.cs",
-              "RelativeDocumentMoniker": "CarWorkshop.Application\\CarWorkshop\\Queries\\GetCarWorkshopByEncodedName\\GetCarWorkshopByEncodedNameQueryHandler.cs",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Queries\\GetCarWorkshopByEncodedName\\GetCarWorkshopByEncodedNameQueryHandler.cs",
-              "RelativeToolTip": "CarWorkshop.Application\\CarWorkshop\\Queries\\GetCarWorkshopByEncodedName\\GetCarWorkshopByEncodedNameQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBsAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T19:45:47.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "GetCarWorkshopByEncodedNameQuery.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Queries\\GetCarWorkshopByEncodedName\\GetCarWorkshopByEncodedNameQuery.cs",
-              "RelativeDocumentMoniker": "CarWorkshop.Application\\CarWorkshop\\Queries\\GetCarWorkshopByEncodedName\\GetCarWorkshopByEncodedNameQuery.cs",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Queries\\GetCarWorkshopByEncodedName\\GetCarWorkshopByEncodedNameQuery.cs",
-              "RelativeToolTip": "CarWorkshop.Application\\CarWorkshop\\Queries\\GetCarWorkshopByEncodedName\\GetCarWorkshopByEncodedNameQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T19:44:02.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "CreateCarWorkshopCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Commands\\CreateCarWorkshop\\CreateCarWorkshopCommandHandler.cs",
-              "RelativeDocumentMoniker": "CarWorkshop.Application\\CarWorkshop\\Commands\\CreateCarWorkshop\\CreateCarWorkshopCommandHandler.cs",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Commands\\CreateCarWorkshop\\CreateCarWorkshopCommandHandler.cs",
-              "RelativeToolTip": "CarWorkshop.Application\\CarWorkshop\\Commands\\CreateCarWorkshop\\CreateCarWorkshopCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:55:19.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "EditCarWorkshopCommand.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommand.cs",
-              "RelativeDocumentMoniker": "CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommand.cs",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommand.cs",
-              "RelativeToolTip": "CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T20:01:51.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 7,
               "Title": "CreateCarWorkshopCommand.cs",
               "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Commands\\CreateCarWorkshop\\CreateCarWorkshopCommand.cs",
               "RelativeDocumentMoniker": "CarWorkshop.Application\\CarWorkshop\\Commands\\CreateCarWorkshop\\CreateCarWorkshopCommand.cs",
@@ -653,7 +288,412 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateCarWorkshopCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Commands\\CreateCarWorkshop\\CreateCarWorkshopCommandHandler.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.Application\\CarWorkshop\\Commands\\CreateCarWorkshop\\CreateCarWorkshopCommandHandler.cs",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Commands\\CreateCarWorkshop\\CreateCarWorkshopCommandHandler.cs",
+              "RelativeToolTip": "CarWorkshop.Application\\CarWorkshop\\Commands\\CreateCarWorkshop\\CreateCarWorkshopCommandHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAxwBsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T18:55:19.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "CarWorkshop.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T15:58:04.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarWorkshopDto.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\CarWorkshopDto.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.Application\\CarWorkshop\\CarWorkshopDto.cs",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\CarWorkshopDto.cs",
+              "RelativeToolTip": "CarWorkshop.Application\\CarWorkshop\\CarWorkshopDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T18:18:06.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateCarWorkshopCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Commands\\CreateCarWorkshop\\CreateCarWorkshopCommandValidator.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.Application\\CarWorkshop\\Commands\\CreateCarWorkshop\\CreateCarWorkshopCommandValidator.cs",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Commands\\CreateCarWorkshop\\CreateCarWorkshopCommandValidator.cs",
+              "RelativeToolTip": "CarWorkshop.Application\\CarWorkshop\\Commands\\CreateCarWorkshop\\CreateCarWorkshopCommandValidator.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:45:31.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarWorkshop.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop.Application.csproj",
+              "RelativeDocumentMoniker": "CarWorkshop.Application\\CarWorkshop.Application.csproj",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop.Application.csproj",
+              "RelativeToolTip": "CarWorkshop.Application\\CarWorkshop.Application.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-24T15:43:10.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarWorkshop.MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\CarWorkshop.MVC.csproj",
+              "RelativeDocumentMoniker": "CarWorkshop.MVC\\CarWorkshop.MVC.csproj",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\CarWorkshop.MVC.csproj",
+              "RelativeToolTip": "CarWorkshop.MVC\\CarWorkshop.MVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-07T08:27:43.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarWorkshopController.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Controllers\\CarWorkshopController.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Controllers\\CarWorkshopController.cs",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Controllers\\CarWorkshopController.cs",
+              "RelativeToolTip": "CarWorkshop.MVC\\Controllers\\CarWorkshopController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAcwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T15:38:41.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CarWorkshop.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T11:01:48.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Program.cs",
+              "RelativeToolTip": "CarWorkshop.MVC\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T12:14:17.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CarWorkshopDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Migrations\\CarWorkshopDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.Infrastructure\\Migrations\\CarWorkshopDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Migrations\\CarWorkshopDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CarWorkshop.Infrastructure\\Migrations\\CarWorkshopDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T09:39:00.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240407094110_Identity.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Migrations\\20240407094110_Identity.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.Infrastructure\\Migrations\\20240407094110_Identity.cs",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Migrations\\20240407094110_Identity.cs",
+              "RelativeToolTip": "CarWorkshop.Infrastructure\\Migrations\\20240407094110_Identity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T09:41:10.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "CarWorkshop.MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T09:53:30.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "CarWorkshop.MVC\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-07T09:53:35.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_LoginPartial.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Shared\\_LoginPartial.cshtml.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\Shared\\_LoginPartial.cshtml.cs",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Shared\\_LoginPartial.cshtml.cs",
+              "RelativeToolTip": "CarWorkshop.MVC\\Views\\Shared\\_LoginPartial.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:10:58.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CarWorkshop.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T10:11:47.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CarWorkshop.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T10:07:13.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "CarWorkshop.MVC\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T10:09:20.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CarWorkshop.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\CarWorkshop.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CarWorkshop.Infrastructure\\CarWorkshop.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\CarWorkshop.Infrastructure.csproj",
+              "RelativeToolTip": "CarWorkshop.Infrastructure\\CarWorkshop.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-24T15:45:58.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.Infrastructure\\Extensions\\ServiceCollectionExtension.cs",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "CarWorkshop.Infrastructure\\Extensions\\ServiceCollectionExtension.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T15:57:21.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CarWorkshopDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Persistance\\CarWorkshopDbContext.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.Infrastructure\\Persistance\\CarWorkshopDbContext.cs",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Persistance\\CarWorkshopDbContext.cs",
+              "RelativeToolTip": "CarWorkshop.Infrastructure\\Persistance\\CarWorkshopDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T10:05:39.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EditCarWorkshopCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommandHandler.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommandHandler.cs",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommandHandler.cs",
+              "RelativeToolTip": "CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommandHandler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T20:03:35.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "CarWorkshop.MVC\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T11:11:16.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EditCarWorkshopCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommandValidator.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommandValidator.cs",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommandValidator.cs",
+              "RelativeToolTip": "CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T08:09:21.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\CarWorkshop\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\CarWorkshop\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\CarWorkshop\\Edit.cshtml",
+              "RelativeToolTip": "CarWorkshop.MVC\\Views\\CarWorkshop\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAIBZwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T20:19:18.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CarWorkshopRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Repositories\\CarWorkshopRepository.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.Infrastructure\\Repositories\\CarWorkshopRepository.cs",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Repositories\\CarWorkshopRepository.cs",
+              "RelativeToolTip": "CarWorkshop.Infrastructure\\Repositories\\CarWorkshopRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T15:46:33.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CarWorkshopMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\Mappings\\CarWorkshopMappingProfile.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.Application\\Mappings\\CarWorkshopMappingProfile.cs",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\Mappings\\CarWorkshopMappingProfile.cs",
+              "RelativeToolTip": "CarWorkshop.Application\\Mappings\\CarWorkshopMappingProfile.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwCIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T18:21:40.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\CarWorkshop\\Details.cshtml",
+              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\CarWorkshop\\Details.cshtml",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\CarWorkshop\\Details.cshtml",
+              "RelativeToolTip": "CarWorkshop.MVC\\Views\\CarWorkshop\\Details.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAIBZwC0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T19:53:53.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\CarWorkshop\\Create.cshtml",
+              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\CarWorkshop\\Create.cshtml",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\CarWorkshop\\Create.cshtml",
+              "RelativeToolTip": "CarWorkshop.MVC\\Views\\CarWorkshop\\Create.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAIBZwAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T19:15:34.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ICarWorkshopRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Domain\\Interfaces\\ICarWorkshopRepository.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.Domain\\Interfaces\\ICarWorkshopRepository.cs",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Domain\\Interfaces\\ICarWorkshopRepository.cs",
+              "RelativeToolTip": "CarWorkshop.Domain\\Interfaces\\ICarWorkshopRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T17:55:21.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\CarWorkshop\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\CarWorkshop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\CarWorkshop\\Index.cshtml",
+              "RelativeToolTip": "CarWorkshop.MVC\\Views\\CarWorkshop\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T10:33:46.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetCarWorkshopByEncodedNameQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Queries\\GetCarWorkshopByEncodedName\\GetCarWorkshopByEncodedNameQueryHandler.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.Application\\CarWorkshop\\Queries\\GetCarWorkshopByEncodedName\\GetCarWorkshopByEncodedNameQueryHandler.cs",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Queries\\GetCarWorkshopByEncodedName\\GetCarWorkshopByEncodedNameQueryHandler.cs",
+              "RelativeToolTip": "CarWorkshop.Application\\CarWorkshop\\Queries\\GetCarWorkshopByEncodedName\\GetCarWorkshopByEncodedNameQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:45:47.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetCarWorkshopByEncodedNameQuery.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Queries\\GetCarWorkshopByEncodedName\\GetCarWorkshopByEncodedNameQuery.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.Application\\CarWorkshop\\Queries\\GetCarWorkshopByEncodedName\\GetCarWorkshopByEncodedNameQuery.cs",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Queries\\GetCarWorkshopByEncodedName\\GetCarWorkshopByEncodedNameQuery.cs",
+              "RelativeToolTip": "CarWorkshop.Application\\CarWorkshop\\Queries\\GetCarWorkshopByEncodedName\\GetCarWorkshopByEncodedNameQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:44:02.011Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 36,
+              "Title": "EditCarWorkshopCommand.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommand.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommand.cs",
+              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommand.cs",
+              "RelativeToolTip": "CarWorkshop.Application\\CarWorkshop\\Commands\\EditCarWorkshop\\EditCarWorkshopCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T20:01:51.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "GetAllCarWorkshopsQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Queries\\GetAllCarWorkshops\\GetAllCarWorkshopsQueryHandler.cs",
               "RelativeDocumentMoniker": "CarWorkshop.Application\\CarWorkshop\\Queries\\GetAllCarWorkshops\\GetAllCarWorkshopsQueryHandler.cs",
@@ -661,12 +701,11 @@
               "RelativeToolTip": "CarWorkshop.Application\\CarWorkshop\\Queries\\GetAllCarWorkshops\\GetAllCarWorkshopsQueryHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwBMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T19:02:24.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T19:02:24.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "GetAllCarWorkshopsQuery.cs",
               "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\CarWorkshop\\Queries\\GetAllCarWorkshops\\GetAllCarWorkshopsQuery.cs",
               "RelativeDocumentMoniker": "CarWorkshop.Application\\CarWorkshop\\Queries\\GetAllCarWorkshops\\GetAllCarWorkshopsQuery.cs",
@@ -674,25 +713,11 @@
               "RelativeToolTip": "CarWorkshop.Application\\CarWorkshop\\Queries\\GetAllCarWorkshops\\GetAllCarWorkshopsQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T19:01:10.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T19:01:10.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ServiceCollectionExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\Extensions\\ServiceCollectionExtensions.cs",
-              "RelativeDocumentMoniker": "CarWorkshop.Application\\Extensions\\ServiceCollectionExtensions.cs",
-              "ToolTip": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Application\\Extensions\\ServiceCollectionExtensions.cs",
-              "RelativeToolTip": "CarWorkshop.Application\\Extensions\\ServiceCollectionExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T15:58:04.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CarWorkshop.MVC\\Controllers\\HomeController.cs",
@@ -700,12 +725,11 @@
               "RelativeToolTip": "CarWorkshop.MVC\\Controllers\\HomeController.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAwwCsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-16T15:59:03.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-16T15:59:03.401Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\Home\\Privacy.cshtml",
@@ -713,12 +737,11 @@
               "RelativeToolTip": "CarWorkshop.MVC\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-16T15:37:36.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-16T15:37:36.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\Home\\Index.cshtml",
@@ -726,12 +749,11 @@
               "RelativeToolTip": "CarWorkshop.MVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T10:57:00.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T10:57:00.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "CarWorkshopSeeder.cs",
               "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Seeders\\CarWorkshopSeeder.cs",
               "RelativeDocumentMoniker": "CarWorkshop.Infrastructure\\Seeders\\CarWorkshopSeeder.cs",
@@ -739,12 +761,11 @@
               "RelativeToolTip": "CarWorkshop.Infrastructure\\Seeders\\CarWorkshopSeeder.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T18:12:10.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-25T18:12:10.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "20240224134828_Init.cs",
               "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.Infrastructure\\Migrations\\20240224134828_Init.cs",
               "RelativeDocumentMoniker": "CarWorkshop.Infrastructure\\Migrations\\20240224134828_Init.cs",
@@ -752,12 +773,11 @@
               "RelativeToolTip": "CarWorkshop.Infrastructure\\Migrations\\20240224134828_Init.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T17:55:33.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-25T17:55:33.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\appsettings.json",
               "RelativeDocumentMoniker": "CarWorkshop.MVC\\appsettings.json",
@@ -765,12 +785,11 @@
               "RelativeToolTip": "CarWorkshop.MVC\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-24T13:32:48.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-24T13:32:48.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "About.cs",
               "DocumentMoniker": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\Models\\About.cs",
               "RelativeDocumentMoniker": "CarWorkshop.MVC\\Models\\About.cs",
@@ -778,8 +797,7 @@
               "RelativeToolTip": "CarWorkshop.MVC\\Models\\About.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-18T11:00:46.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-18T11:00:46.752Z"
             }
           ]
         }
