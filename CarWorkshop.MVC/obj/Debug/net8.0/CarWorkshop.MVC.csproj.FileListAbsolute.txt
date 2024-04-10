@@ -274,3 +274,4 @@ C:\Users\adria\.NETProjects\WebAPI\CarWorkshop.MVC\bin\Debug\net8.0\Microsoft.Ex
 C:\Users\adria\.NETProjects\WebAPI\CarWorkshop.MVC\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\adria\.NETProjects\WebAPI\CarWorkshop.MVC\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\adria\.NETProjects\WebAPI\CarWorkshop.MVC\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\adria\.NETProjects\WebAPI\CarWorkshop.MVC\bin\Debug\net8.0\libman.json
