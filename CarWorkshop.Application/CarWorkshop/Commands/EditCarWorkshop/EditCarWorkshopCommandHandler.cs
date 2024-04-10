@@ -12,23 +12,23 @@ namespace CarWorkshop.Application.CarWorkshop.Commands.EditCarWorkshop
 {
     internal class EditCarWorkshopCommandHandler : IRequestHandler<EditCarWorkshopCommand>
     {
-        private readonly ICarWorkshopRepository _carWorkshopRepository;
+        private readonly ICarWorkshopRepository _repository;
         private readonly IUserContext _userContext;
 
-        public EditCarWorkshopCommandHandler(ICarWorkshopRepository carWorkshopRepository, IUserContext userContext)
+        public EditCarWorkshopCommandHandler(ICarWorkshopRepository repository, IUserContext userContext)
         {
-            _carWorkshopRepository = carWorkshopRepository;
+            _repository = repository;
             _userContext = userContext;
         }
 
         public async Task<Unit> Handle(EditCarWorkshopCommand request, CancellationToken cancellationToken)
         {
-            var carWorkshop = await _carWorkshopRepository.GetByEncodedName(request.EncodedName!); // pobranie encji z bazy danych
+            var carWorkshop = await _repository.GetByEncodedName(request.EncodedName!); // pobranie encji z bazy danych
 
             var user = _userContext.GetCurrentUser();
-            var isEditable = user != null && carWorkshop.CreatedById == user.Id;
+            var isEditable = user != null && (carWorkshop.CreatedById == user.Id || user.isInRole("Moderator"));
 
-            if(isEditable)
+            if (!isEditable)
             {
                 return Unit.Value;
             }
@@ -40,7 +40,7 @@ namespace CarWorkshop.Application.CarWorkshop.Commands.EditCarWorkshop
             carWorkshop.ContactDetails.PostalCode = request.PostalCode;
             carWorkshop.ContactDetails.Street = request.Street;
 
-            await _carWorkshopRepository.Commit();
+            await _repository.Commit();
 
             return Unit.Value;
         }
