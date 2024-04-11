@@ -15,13 +15,18 @@ namespace CarWorkshop.Infrastructure.Persistance
 
         }
         public DbSet<Domain.Entities.CarWorkshop> CarWorkshops { get; set; } //podana nazwa klasy ze "ścieżką" - jest to wlasciwosc prezentujaca tabele
-
+        public DbSet<Domain.Entities.CarWorkshopService> Services { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder) //przekazujemy z ContactDetails nie jest osobna tabela tylko wlasciwoscia
         {
             base.OnModelCreating(modelBuilder);
 
             modelBuilder.Entity<Domain.Entities.CarWorkshop>()
                 .OwnsOne(c => c.ContactDetails);
+
+            modelBuilder.Entity<Domain.Entities.CarWorkshop>()
+                .HasMany(c => c.Services)
+                .WithOne(s => s.CarWorkshop)
+                .HasForeignKey(s => s.CarWorkshopId);
         }
     }
 }
