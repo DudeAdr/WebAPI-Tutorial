@@ -1,4 +1,5 @@
-﻿@model CarWorkshop.Application.CarWorkshop.Commands.EditCarWorkshop.EditCarWorkshopCommand
+﻿@using CarWorkshop.Application.CarWorkshopService.Commands
+@model CarWorkshop.Application.CarWorkshop.Commands.EditCarWorkshop.EditCarWorkshopCommand
 
 @{
     ViewData["Title"] = "Edit";
@@ -48,36 +49,14 @@
     </div>
 </div>
 
-<!-- Button trigger modal -->
-<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#createCarWorkshopServiceModal">
-    Add carworkshop service
-</button>
-
-<!-- Modal -->
-<div class="modal fade" id="createCarWorkshopServiceModal" tabindex="-1" role="dialog" aria-labelledby="createCarWorkshopServiceModalLabel" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="createCarWorkshopServiceModalLabel">Create new carworkshop service</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <div class="modal-body">
-                ...
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                <button type="button" class="btn btn-primary">Save changes</button>
-            </div>
-        </div>
-    </div>
-</div>
 
 <div>
+    <partial name="_CreateCarWorkshopService" model="new CreateCarWorkshopServiceCommand(){CarWorkshopEncodedName = Model.EncodedName}" />
     <a asp-action="Index" class="btn btn-secondary">Back to List</a>
 </div>
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+    <script src="~/js/CarWorkshop/Edit.js"></script>
 }

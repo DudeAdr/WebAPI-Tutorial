@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Xyu+PKDE+2nTMsSaMXJ5+SttLe7HGSgUgqGwmpn78xc=",
+  "Hash": "sLAwImxEOfZN6V4suufym5p4Bjz/IfmAsnu4geM9eAo=",
   "Source": "CarWorkshop.MVC",
   "BasePath": "_content/CarWorkshop.MVC",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\wwwroot\\js\\CarWorkshop\\Edit.js",
+      "SourceId": "CarWorkshop.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\wwwroot\\",
+      "BasePath": "_content/CarWorkshop.MVC",
+      "RelativePath": "js/CarWorkshop/Edit.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\CarWorkshop\\Edit.js"
     },
     {
       "Identity": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\wwwroot\\js\\site.js",

@@ -18,5 +18,8 @@
     <ProjectReference Include="..\CarWorkshop.Application\CarWorkshop.Application.csproj" />
 	  <ProjectReference Include="..\CarWorkshop.Infrastructure\CarWorkshop.Infrastructure.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\js\CarWorkshop\" />
+  </ItemGroup>
 
 </Project>

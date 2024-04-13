@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\wwwroot\\js\\CarWorkshop\\Edit.js",
+      "PackagePath": "staticwebassets\\js\\CarWorkshop\\Edit.js"
+    },
+    {
       "Id": "C:\\Users\\adria\\.NETProjects\\WebAPI\\CarWorkshop.MVC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
